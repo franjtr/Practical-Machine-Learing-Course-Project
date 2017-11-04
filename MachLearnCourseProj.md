@@ -1,9 +1,9 @@
-Machine Learning Course Project {.title .toc-ignore}
+Machine Learning Course Project 
 ===============================
 
-#### *Francisco José Torres Ramírez* {.author}
+#### *Francisco José Torres Ramírez* 
 
-#### *3 de noviembre de 2017* {.date}
+#### *3 de noviembre de 2017* 
 
 The goal of your project is to predict the manner in which they did the
 exercise. This is the “classe” variable in the training set. You may use
